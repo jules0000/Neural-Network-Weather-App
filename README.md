@@ -1,4 +1,4 @@
-````markdown
+
 # Weather Forecast LSTM Classifier
 
 This project demonstrates how to build an LSTM-based deep learning model to classify weather conditions using forecast data retrieved from WeatherAPI.com. The script fetches a 3-day weather forecast for Manila, processes hourly data into sequences, and trains an LSTM model to predict weather conditions (e.g., Sunny, Rainy, etc.) based on several numerical features.
@@ -26,7 +26,7 @@ You can install the required packages via pip:
 ```bash
 pip install numpy pandas requests tensorflow scikit-learn
 ```
-````
+
 
 ## Setup
 
